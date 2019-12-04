@@ -1,0 +1,3 @@
+python -m http.server 8000
+ipconfig in windows and ifconfig in linux
+or give full path c:\>windows\system32\ipconfig.exe
